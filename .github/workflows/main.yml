@@ -60,6 +60,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: report
-          path: /home/runner/work/extractor/extractor/plugins_downloader/report.txt
+          path: /home/runner/work/plugins/plugins/Installs/report.txt
 
      
